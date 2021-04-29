@@ -1,0 +1,3 @@
+TAP_DANCE_ENABLE = yes
+BOOTLOADER = qmk-dfu
+RGBLIGHT_ENABLE = yes

@@ -1,0 +1,22 @@
+# datenpirat features
+AUTO_SHIFT_ENABLE 		= no
+DYNAMIC_MACRO_ENABLE	= no
+TAP_DANCE_ENABLE		= yes
+RAW_ENABLE 				= yes
+COMBO_ENABLE 			= no
+CONSOLE_ENABLE 			= no
+NKRO_ENABLE 			= yes
+RGBLIGHT_ENABLE 		= yes
+MIDI_ENABLE				= no
+BLUETOOTH_ENABLE		= no
+AUDIO_ENABLE			= no
+FAUXCLICKY_ENABLE		= no
+HD44780_ENABLE			= no
+BACKLIGHT_ENABLE		= yes
+KEY_LOCK_ENABLE			= no
+LEADER_ENABLE			= no
+COMMAND_ENABLE   		= no  # Commands for debug and configuration
+UNICODE_ENABLE   		= no  # Unicode
+SWAP_HANDS_ENABLE		= no  # Allow swapping hands of keyboard
+TERMINAL_ENABLE 		= no  # This feature is currently huge, and should probably only be put on boards with a lot of memory, or for fun.
+WPM_ENABLE 				= no
